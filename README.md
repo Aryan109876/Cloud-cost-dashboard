@@ -147,13 +147,3 @@ This dashboard is designed to be deployed on modern hosting platforms:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Email: support@cloudcostoptimization.com
-- Documentation: [View full documentation](docs/README.md)
-
----
-
-Built with ❤️ for cloud cost optimization and modern web development practices.
